@@ -1,0 +1,35 @@
+h1.titre{
+	text-decoration: underline;
+	font-family: cooper black;
+	font-size: 60px;
+}
+
+h2.plugin{
+	color: blue;
+	text-decoration: underline;
+	font-family: bangers;
+	font-size: 50px;
+}
+
+.liste{
+	list-style: none;
+	font-size: 50px;
+	padding-left: 100px;
+	color: #0CDC7B;
+	font-family: Just Another Hand;
+}
+
+h3.text3{
+
+}
+
+/* contenue sous forme de boîte */
+
+div#content div{
+	display: inline-block;
+	font-family: gugi;
+}
+
+div.rightbox{
+	color: red;
+}
