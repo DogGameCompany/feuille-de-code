@@ -23,6 +23,12 @@ h3.text3{
 
 }
 
+ul li em {
+    color: black;
+    font-family: verdana;
+    font-size: 25px;
+}
+
 /* contenue sous forme de boîte */
 
 div#content div{
